@@ -2,7 +2,9 @@
 Vimxp provides a http server that allows you to extract text by vim commands.
 
 ## Demo
-TODO
+https://github.com/user-attachments/assets/3a410c87-7880-4f13-8fe0-a78e854b00de
+
+
 
 ## Usage
 1. Open main.lua and run the following command.
